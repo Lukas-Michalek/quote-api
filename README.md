@@ -56,6 +56,10 @@ After installing these dependencies, developer may add additional features insid
 ## Project Status
 *In progress...*
 
+- Main features (POST, GET) implementd
+
+- ***Optional features(PUT, DELETE) to be implemented...***
+
 <br>
 
 ## Features
